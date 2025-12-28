@@ -14,8 +14,8 @@
   <display-name lang="en">TV3</display-name>
   <icon src="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png"/>
   <url>https://astro.com.my</url>
-  </channel>
- <channel id="103.astro">
+ </channel>
+  <channel id="103.astro">
   <display-name lang="en">TV3 HD</display-name>
   <icon src="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png"/>
   <url>https://astro.com.my</url>
@@ -25,8 +25,18 @@
   <icon src="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png"/>
   <url>https://astro.com.my</url>
  </channel>
+  <channel id="104.astro">
+  <display-name lang="en">RIA HD B</display-name>
+  <icon src="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png"/>
+  <url>https://astro.com.my</url>
+ </channel>
  <channel id="105.astro">
   <display-name lang="en">PRIMA HD</display-name>
+  <icon src="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png"/>
+  <url>https://astro.com.my</url>
+ </channel>
+ <channel id="105.astro">
+  <display-name lang="en">PRIMA HD B</display-name>
   <icon src="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png"/>
   <url>https://astro.com.my</url>
  </channel>
@@ -589,9 +599,19 @@
   <display-name lang="en">ARENA BOLA</display-name>
   <icon src="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png"/>
   <url>https://astro.com.my</url>
+  </channel>
+ <channel id="803.astro">
+  <display-name lang="en">ARENA BOLA B</display-name>
+  <icon src="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png"/>
+  <url>https://astro.com.my</url>
  </channel>
  <channel id="804.astro">
   <display-name lang="en">ARENA BOLA 2</display-name>
+  <icon src="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png"/>
+  <url>https://astro.com.my</url>
+  </channel>
+ <channel id="804.astro">
+  <display-name lang="en">ARENA BOLA 2 B</display-name>
   <icon src="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png"/>
   <url>https://astro.com.my</url>
  </channel>
@@ -609,9 +629,19 @@
   <display-name lang="en">Astro Premier League</display-name>
   <icon src="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png"/>
   <url>https://astro.com.my</url>
+  </channel>
+ <channel id="811.astro">
+  <display-name lang="en">Astro Premier League B</display-name>
+  <icon src="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png"/>
+  <url>https://astro.com.my</url>
  </channel>
  <channel id="812.astro">
   <display-name lang="en">Astro Premier League 2</display-name>
+  <icon src="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png"/>
+  <url>https://astro.com.my</url>
+  </channel>
+ <channel id="812.astro">
+  <display-name lang="en">Astro Premier League 2 B</display-name>
   <icon src="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png"/>
   <url>https://astro.com.my</url>
  </channel>
@@ -627,6 +657,11 @@
  </channel>
  <channel id="815.astro">
   <display-name lang="en">Astro Badminton</display-name>
+  <icon src="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png"/>
+  <url>https://astro.com.my</url>
+ </channel>
+ <channel id="815.astro">
+  <display-name lang="en">Astro Badminton B</display-name>
   <icon src="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png"/>
   <url>https://astro.com.my</url>
  </channel>
