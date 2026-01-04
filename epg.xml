@@ -26,7 +26,12 @@
   <url>https://astro.com.my</url>
   </channel>
  <channel id="104.astro">
-  <display-name lang="en">RIA HD B</display-name>
+  <display-name lang="en">RIA B</display-name>
+  <icon src="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png"/>
+  <url>https://astro.com.my</url>
+  </channel>
+ <channel id="104.astro">
+  <display-name lang="en">RIA C</display-name>
   <icon src="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png"/>
   <url>https://astro.com.my</url>
  </channel>
@@ -36,7 +41,12 @@
   <url>https://astro.com.my</url>
    </channel>
  <channel id="105.astro">
-  <display-name lang="en">PRIMA HD B</display-name>
+  <display-name lang="en">PRIMA B</display-name>
+  <icon src="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png"/>
+  <url>https://astro.com.my</url>
+  </channel>
+ <channel id="105.astro">
+  <display-name lang="en">PRIMA C</display-name>
   <icon src="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png"/>
   <url>https://astro.com.my</url>
  </channel>
@@ -649,6 +659,11 @@
   <display-name lang="en">Astro Premier League B</display-name>
   <icon src="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png"/>
   <url>https://astro.com.my</url>
+  </channel>
+ <channel id="811.astro">
+  <display-name lang="en">Astro Premier League C</display-name>
+  <icon src="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png"/>
+  <url>https://astro.com.my</url>
  </channel>
  <channel id="812.astro">
   <display-name lang="en">Astro Premier League 2</display-name>
@@ -657,6 +672,11 @@
   </channel>
  <channel id="812.astro">
   <display-name lang="en">Astro Premier League 2 B</display-name>
+  <icon src="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png"/>
+  <url>https://astro.com.my</url>
+  </channel>
+ <channel id="812.astro">
+  <display-name lang="en">Astro Premier League 2 C</display-name>
   <icon src="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png"/>
   <url>https://astro.com.my</url>
  </channel>
