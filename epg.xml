@@ -19,13 +19,38 @@
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
+  <channel id="TV3">
+    <display-name lang="en">TV3 HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
   <channel id="AstroRia">
     <display-name lang="en">Astro Ria</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
+  <channel id="AstroRia">
+    <display-name lang="en">Astro Ria B</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroRia">
+    <display-name lang="en">Astro Ria C</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
   <channel id="AstroPrima">
     <display-name lang="en">Astro Prima</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroPrima">
+    <display-name lang="en">Astro Prima B</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroPrima">
+    <display-name lang="en">Astro Prima C</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
@@ -484,8 +509,28 @@
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
+  <channel id="AstroArenaBola">
+    <display-name lang="en">Astro Arena Bola B</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroArenaBola">
+    <display-name lang="en">Astro Arena Bola B</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
   <channel id="AstroArenaBola2">
     <display-name lang="en">Astro Arena Bola 2</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroArenaBola2">
+    <display-name lang="en">Astro Arena Bola 2 B</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroArenaBola2">
+    <display-name lang="en">Astro Arena Bola 2 C</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
@@ -504,8 +549,23 @@
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
+  <channel id="AstroGrandstand">
+    <display-name lang="en">Astro Grandstand B</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
   <channel id="AstroPremierLeague">
     <display-name lang="en">Astro Premier League</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroPremierLeague">
+    <display-name lang="en">Astro Premier League B</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroPremierLeague">
+    <display-name lang="en">Astro Premier League C</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
@@ -514,13 +574,33 @@
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
+  <channel id="AstroPremierLeague2">
+    <display-name lang="en">Astro Premier League 2 B</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroPremierLeague2">
+    <display-name lang="en">Astro Premier League 2 C</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
   <channel id="AstroFootball">
     <display-name lang="en">Astro Football</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
+  <channel id="AstroFootball">
+    <display-name lang="en">Astro Football B</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
   <channel id="AstroBadminton">
     <display-name lang="en">Astro Badminton</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroBadminton">
+    <display-name lang="en">Astro Badminton B</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
